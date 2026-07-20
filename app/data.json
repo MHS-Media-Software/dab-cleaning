@@ -1,0 +1,338 @@
+{
+  "concept": {
+    "companyName": "DAB Cleaning",
+    "tagline": "Professionele schoonmaak voor elk object",
+    "sector": "Schoonmaakdiensten / Facility Services",
+    "colors": {
+      "primary": "#1A1A1A",
+      "secondary": "#C8A480",
+      "accent": "#E8DCC8",
+      "background": "#F4EFE6",
+      "text": "#1A1A1A"
+    },
+    "styleOverrides": {
+      "heroLayout": "split-left-photo-right-form",
+      "cardRadius": "rounded-xl",
+      "uspBandBg": "#C8A480",
+      "footerBg": "#1A1A1A",
+      "ctaBannerBg": "#1A1A1A"
+    },
+    "contact": {
+      "phone": "",
+      "email": "",
+      "address": ""
+    },
+    "socialMedia": {
+      "facebook": "",
+      "instagram": "",
+      "linkedin": "",
+      "youtube": ""
+    },
+    "heroTitle": "Schoon resultaat, elke keer opnieuw",
+    "heroSubtitle": "DAB Cleaning verzorgt professionele schoonmaakdiensten voor bedrijven, instellingen en particulieren. Betrouwbaar, grondig en op maat.",
+    "heroBadge": "Vakkundig & betrouwbaar",
+    "heroButtonText": "Offerte aanvragen",
+    "uspCards": [
+      {
+        "icon": "CheckCircle",
+        "title": "Gecertificeerde professionals",
+        "description": "Ons team werkt met gecertificeerde schoonmaakspecialisten die elke ruimte tot in de puntjes verzorgen."
+      },
+      {
+        "icon": "Clock",
+        "title": "Flexibele planning",
+        "description": "Wij plannen onze werkzaamheden volledig rond uw agenda — ook buiten kantooruren of in het weekend."
+      },
+      {
+        "icon": "Shield",
+        "title": "Veilige middelen",
+        "description": "We gebruiken uitsluitend professionele, milieubewuste schoonmaakmiddelen die veilig zijn voor mens en omgeving."
+      },
+      {
+        "icon": "Handshake",
+        "title": "Vaste contactpersoon",
+        "description": "U werkt altijd met een vaste contactpersoon — directe communicatie, geen gedoe."
+      }
+    ],
+    "about": {
+      "title": "Wie is DAB Cleaning?",
+      "text": "DAB Cleaning is een professioneel schoonmaakbedrijf dat zich volledig toelegt op het leveren van kwaliteit. Of het nu gaat om dagelijks kantooronderhoud, periodieke dieptereiniging of gespecialiseerde objectschoonmaak — wij leveren altijd het gewenste resultaat.\n\nOns team bestaat uit ervaren vakmensen die weten hoe ze een ruimte efficiënt en grondig schoonmaken. We werken met de juiste apparatuur, bewezen methoden en een scherp oog voor detail. Geen oppervlakkig schoonmaken, maar structureel en duurzaam werk.\n\nVanuit onze no-nonsense aanpak bouwen we langdurige relaties met onze opdrachtgevers. Transparante communicatie, vaste afspraken en altijd nakomen wat we beloven — dat is de kern van DAB Cleaning.",
+      "yearsExperience": "10",
+      "checklistItems": [
+        "Ervaren en betrouwbaar schoonmaakteam",
+        "Maatwerk voor elk type object",
+        "Milieubewuste werkwijze",
+        "Scherpe en transparante prijzen"
+      ]
+    },
+    "partners": [],
+    "uniqueFeatures": {
+      "sectionTitle": "Waarom kiezen voor DAB Cleaning?",
+      "sectionText": "Wij onderscheiden ons door consistentie, vakmanschap en echte betrokkenheid bij elk object dat we beheren.",
+      "items": [
+        {
+          "icon": "Award",
+          "title": "Kwaliteitsgarantie",
+          "description": "Niet tevreden? Dan komen wij het kosteloos oplossen. Kwaliteit staat bij ons centraal, zonder uitzonderingen."
+        },
+        {
+          "icon": "Users",
+          "title": "Vast team per object",
+          "description": "Elk object krijgt een vast schoonmaakteam toegewezen. Zo kent ons team uw pand door en door."
+        },
+        {
+          "icon": "Settings",
+          "title": "Professionele apparatuur",
+          "description": "We werken met up-to-date machines en materialen voor optimale resultaten bij elke schoonmaakklus."
+        },
+        {
+          "icon": "Layers",
+          "title": "Breed dienstenpakket",
+          "description": "Van dagelijkse onderhoudsschoonmaak tot glasbewassing en vloeronderhoud — bij DAB Cleaning hoeft u niet verder te zoeken."
+        },
+        {
+          "icon": "Target",
+          "title": "Resultaatgericht",
+          "description": "We werken altijd met vooraf vastgestelde kwaliteitsnormen. U weet precies wat u krijgt en wij houden ons daaraan."
+        }
+      ]
+    },
+    "services": [
+      {
+        "name": "Onderhoudsschoonmaak",
+        "description": "Dagelijkse of periodieke schoonmaak van kantoren, bedrijfspanden en overige objecten. Wij zorgen voor een schone, gezonde werkomgeving elke dag van het jaar.",
+        "imagePrompt": "Professional cleaning staff mopping a bright modern office corridor with large windows, polished floors and organized workspaces, natural daylight, photorealistic commercial photography"
+      },
+      {
+        "name": "Glasbewassing",
+        "description": "Inwendige en uitwendige reiniging van ramen, gevels en glasgevels. Wij gebruiken waterfed-pole systemen en professionele middelen voor streepvrij resultaat.",
+        "imagePrompt": "Window cleaner using water-fed pole system on a modern office building exterior, bright daylight, clean glass reflections, photorealistic commercial photography"
+      },
+      {
+        "name": "Vloeronderhoud",
+        "description": "Schrobben, poetsen, straten en impregneren van harde vloeren. Van hardhouten parket tot industriële epoxyvloeren — wij behandelen elk vloertype vakkundig.",
+        "imagePrompt": "Industrial floor polishing machine operator buffing a large commercial floor in a warehouse or office building, gleaming reflective surface, photorealistic commercial photography"
+      },
+      {
+        "name": "Dieptereiniging",
+        "description": "Grondige eenmalige reiniging van moeilijk bereikbare plaatsen, sanitair, keukens en technische ruimtes. Ideaal bij verhuizingen, renovaties of periodieke nazorg.",
+        "imagePrompt": "Professional deep cleaning crew in protective gear scrubbing industrial kitchen equipment and stainless steel surfaces with steam cleaner, photorealistic commercial photography"
+      },
+      {
+        "name": "Bouwschoonmaak",
+        "description": "Opleverschoonmaak na nieuwbouw of renovatie. Wij verwijderen bouwstof, kit, verf- en cementspatten en leveren het pand spic en span op.",
+        "imagePrompt": "Post-construction cleaning workers wiping down new windows and vacuuming building dust in a freshly renovated modern apartment, bright daylight, photorealistic commercial photography"
+      },
+      {
+        "name": "Sanitaire reiniging",
+        "description": "Hygiënische reiniging en desinfectie van sanitaire ruimtes in kantoren, scholen en zorginstellingen. Wij werken met bacteriologisch verantwoorde middelen.",
+        "imagePrompt": "Clean and hygienic modern commercial bathroom with white tiles and chrome fixtures, professional cleaning in progress, fresh and bright, photorealistic commercial photography"
+      }
+    ],
+    "steps": [
+      {
+        "icon": "Phone",
+        "title": "Contact & intake",
+        "description": "U neemt contact op via ons formulier of telefoon. We plannen een vrijblijvende intake om uw wensen en het object in kaart te brengen."
+      },
+      {
+        "icon": "ClipboardCheck",
+        "title": "Offerte op maat",
+        "description": "Op basis van de intake stellen wij een heldere offerte op — geen verstopte kosten, gewoon een duidelijk overzicht van wat wij leveren en wat het kost."
+      },
+      {
+        "icon": "CheckCircle",
+        "title": "Akkoord & planning",
+        "description": "Na akkoord op de offerte stellen we een werkschema op dat volledig aansluit bij uw situatie en voorkeuren."
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Uitvoering & kwaliteitscheck",
+        "description": "Ons team gaat aan de slag. Na afloop voeren we een kwaliteitscheck uit en registreren we het resultaat. U wordt altijd op de hoogte gehouden."
+      }
+    ],
+    "stepsTitle": "Zo werkt DAB Cleaning",
+    "stepsText": "Van eerste contact tot schoon object — een transparant en gestroomlijnd proces zonder verrassingen.",
+    "projects": [
+      {
+        "name": "Kantoorcomplex reiniging",
+        "date": "maart 2025",
+        "location": "Amsterdam",
+        "imagePrompt": "Large modern office complex with clean glass facade and polished lobby floors after professional cleaning service, bright daylight exterior, photorealistic commercial photography"
+      },
+      {
+        "name": "Bouwschoonmaak nieuwbouwproject",
+        "date": "januari 2025",
+        "location": "Utrecht",
+        "imagePrompt": "Freshly cleaned newly built apartment building interior with dust-free surfaces and sparkling windows, construction cleanup complete, photorealistic commercial photography"
+      },
+      {
+        "name": "Dieptereiniging zorginstelling",
+        "date": "november 2024",
+        "location": "Rotterdam",
+        "imagePrompt": "Pristine healthcare facility corridor with white floors and walls after deep cleaning service, professional cleaning cart nearby, bright clinical lighting, photorealistic commercial photography"
+      },
+      {
+        "name": "Vloeronderhoud retailketen",
+        "date": "september 2024",
+        "location": "Den Haag",
+        "imagePrompt": "Retail store with gleaming polished stone floors reflecting product shelves after professional floor maintenance, photorealistic commercial photography"
+      }
+    ],
+    "blogPosts": [],
+    "testimonials": [
+      {
+        "name": "Martijn van der Berg",
+        "company": "Van der Berg Vastgoed",
+        "quote": "DAB Cleaning verzorgt al twee jaar de schoonmaak van ons kantoorpand. Altijd op tijd, altijd grondig. We hebben nooit reden gehad om te klagen.",
+        "rating": 5
+      },
+      {
+        "name": "Lisanne Hoekstra",
+        "company": "Hoekstra & Partners Advocaten",
+        "quote": "Na de verbouwing hebben zij de bouwschoonmaak verzorgd. Het pand was binnen no-time stralend schoon en klaar voor gebruik. Indrukwekkend werk.",
+        "rating": 5
+      },
+      {
+        "name": "Remi Jacobs",
+        "company": "Jacobs Logistiek B.V.",
+        "quote": "Professioneel bedrijf met een vast en betrouwbaar team. Ze kennen ons magazijn door en door en leveren elke keer hetzelfde hoge niveau.",
+        "rating": 5
+      },
+      {
+        "name": "Sandra Timmermans",
+        "company": "Basisschool De Zonnewijzer",
+        "quote": "Wij zijn erg blij met DAB Cleaning. De school is elke ochtend fris en schoon voor de leerlingen. Prettige communicatie en een vriendelijk team.",
+        "rating": 5
+      }
+    ],
+    "pricing": null,
+    "ctaTitle": "Klaar voor een schoner pand?",
+    "ctaText": "Vraag vandaag nog een vrijblijvende offerte aan. Wij nemen binnen één werkdag contact met u op om uw wensen door te nemen.",
+    "ctaButtonText": "Neem contact op",
+    "footerTagline": "Professionele schoonmaak voor elk object — betrouwbaar, grondig en op maat.",
+    "footerLinks": [
+      {
+        "label": "Home",
+        "href": "#"
+      },
+      {
+        "label": "Diensten",
+        "href": "#"
+      },
+      {
+        "label": "Projecten",
+        "href": "#"
+      },
+      {
+        "label": "Over ons",
+        "href": "#"
+      },
+      {
+        "label": "Contact",
+        "href": "#"
+      }
+    ],
+    "companyInfo": {
+      "kvk": "",
+      "btw": "",
+      "iban": "",
+      "whatsappNumber": ""
+    },
+    "seoTitle": "DAB Cleaning — Professionele Schoonmaakdiensten",
+    "seoDescription": "DAB Cleaning biedt professionele schoonmaakdiensten voor bedrijven, instellingen en particulieren. Van dagelijkse onderhoudsschoonmaak tot bouwschoonmaak. Vraag een vrijblijvende offerte aan.",
+    "pages": [
+      {
+        "name": "Home",
+        "slug": "/"
+      },
+      {
+        "name": "Diensten",
+        "slug": "/diensten"
+      },
+      {
+        "name": "Projecten",
+        "slug": "/projecten"
+      },
+      {
+        "name": "Over ons",
+        "slug": "/over-ons"
+      },
+      {
+        "name": "Contact",
+        "slug": "/contact"
+      }
+    ],
+    "diensten": {
+      "heroTitle": "Diensten",
+      "heroText": "Van dagelijkse onderhoudsschoonmaak tot gespecialiseerde dieptereiniging — ontdek het volledige aanbod van DAB Cleaning.",
+      "sectionTitle": "Wat we voor u kunnen doen",
+      "sectionText": "Wij bieden een breed pakket aan schoonmaakdiensten voor elk type object en elke sector. Elk traject begint met een persoonlijke intake zodat we precies leveren wat uw situatie vraagt.",
+      "uspTitle": "Waar wij voor staan",
+      "uspText": "Bij DAB Cleaning draait het om consistentie en kwaliteit. We geloven dat een schone omgeving bijdraagt aan het welzijn van medewerkers, bezoekers en bewoners. Daarom werken we nooit met standaardoplossingen, maar altijd maatwerk.\n\nOns team is getraind, gecertificeerd en werkt met de juiste apparatuur en veilige middelen. U kunt erop vertrouwen dat wij het werk grondig en verantwoord uitvoeren.",
+      "uspChecklist": [
+        "Gecertificeerde schoonmaakprofessionals",
+        "Breed dienstenpakket voor elk object",
+        "Milieuvriendelijke schoonmaakmiddelen",
+        "Flexibele planning en vaste contactpersoon"
+      ]
+    },
+    "projecten": {
+      "heroTitle": "Projecten",
+      "heroText": "Een selectie van uitgevoerde schoonmaakprojecten door DAB Cleaning — van kantoorpanden tot zorginstellingen.",
+      "gridTitle": "Onze realisaties",
+      "gridText": "Elk project is uniek. Bekijk hieronder een overzicht van recente opdrachten die wij met zorg en vakmanschap hebben uitgevoerd."
+    },
+    "overOns": {
+      "heroTitle": "Over ons",
+      "heroText": "Maak kennis met het team achter DAB Cleaning — gedreven professionals met een passie voor schoon.",
+      "storyTitle": "Ons verhaal",
+      "storyText": "DAB Cleaning is ontstaan vanuit een eenvoudige overtuiging: schoonmaak verdient serieus vakmanschap. Wat begon als een kleinschalig initiatief is uitgegroeid tot een professioneel schoonmaakbedrijf met een vast team van ervaren vakmensen.\n\nWe werken voor uiteenlopende opdrachtgevers — van zakelijke kantoren en winkels tot scholen, zorginstellingen en industriële panden. Elk object behandelen we met dezelfde aandacht en precisie. Groot of klein, structureel of eenmalig — wij staan voor u klaar.\n\nOns team is de kracht van DAB Cleaning. Gemotiveerd, betrouwbaar en trots op hun werk. We investeren continu in training en de juiste materialen om de kwaliteit hoog te houden. Zo bouwen wij aan duurzame relaties met onze opdrachtgevers."
+    },
+    "contactPage": {
+      "heroTitle": "Contact",
+      "heroText": "Heeft u een vraag of wilt u een vrijblijvende offerte aanvragen? Neem contact op met DAB Cleaning — we reageren binnen één werkdag.",
+      "detailsTitle": "Wij staan voor u klaar",
+      "detailsText": "Of u nu een terugkerende schoonmaakovereenkomst zoekt of een eenmalige klus wilt laten uitvoeren — wij denken graag met u mee. Vul het formulier in of neem direct contact op.",
+      "faqTitle": "Veelgestelde vragen",
+      "faqText": "Hieronder vindt u antwoorden op de meest gestelde vragen over onze diensten en werkwijze.",
+      "faq": [
+        {
+          "question": "In welke regio's is DAB Cleaning actief?",
+          "answer": "DAB Cleaning is actief in een breed werkgebied. Neem contact met ons op om te bevestigen of wij ook in uw regio werkzaam zijn. We proberen zoveel mogelijk opdrachtgevers van dienst te zijn."
+        },
+        {
+          "question": "Hoe snel kan DAB Cleaning starten?",
+          "answer": "Na een akkoord op de offerte plannen wij de startdatum in overleg met u. In veel gevallen kunnen wij binnen één tot twee weken beginnen, afhankelijk van de omvang en aard van de opdracht."
+        },
+        {
+          "question": "Werken jullie ook buiten kantooruren?",
+          "answer": "Ja, wij passen onze planning aan op uw behoeften. Schoonmaak vroeg in de ochtend, 's avonds of in het weekend is bij ons goed mogelijk. Uw werkzaamheden hoeven er geen last van te hebben."
+        },
+        {
+          "question": "Wat als ik niet tevreden ben over het resultaat?",
+          "answer": "Uw tevredenheid staat centraal. Als u niet tevreden bent, laat het ons weten en wij komen het kosteloos herstellen. Wij staan achter onze kwaliteitsbelofte."
+        },
+        {
+          "question": "Kan ik ook een eenmalige schoonmaak aanvragen?",
+          "answer": "Absoluut. Naast vaste schoonmaakcontracten voert DAB Cleaning ook eenmalige opdrachten uit, zoals bouwschoonmaak, dieptereiniging of opleverschoonmaak. Vraag gerust een offerte aan."
+        }
+      ]
+    },
+    "imagePrompts": {
+      "hero": "Professional commercial cleaning team in branded uniforms working in a modern open office environment with large windows and polished floors, natural daylight, photorealistic commercial photography",
+      "about": "Friendly professional cleaning company team members posing confidently in front of a clean modern office building exterior, branded uniforms, daytime, photorealistic commercial photography",
+      "uniqueBg": "Dark abstract architectural background with subtle geometric lines and deep shadows, moody commercial photography, dark navy almost black tones",
+      "stepsBg": "Clean minimalistic commercial workspace with soft beige walls and natural light filtering through large windows, calm and organized environment, photorealistic photography",
+      "ctaBg": "Wide angle view of a large spotlessly clean office interior with gleaming floors and organized desks, subtle warm lighting, professional commercial photography",
+      "dienstenHero": "Aerial view of professional cleaning crew working in a large bright commercial building with polished floors and clean windows, photorealistic commercial photography",
+      "dienstenUsp": "Close-up of professional cleaning equipment, microfiber cloths and spray bottles neatly arranged on a clean surface with soft warm light, photorealistic commercial photography",
+      "projectenHero": "Wide shot of a beautifully cleaned modern corporate lobby with marble floors and glass walls, spotless after professional cleaning service, photorealistic commercial photography",
+      "overOnsHero": "Smiling professional cleaning team in matching uniforms standing together in a bright modern facility, confident and welcoming, photorealistic commercial photography",
+      "overOnsStory": "Professional cleaning company team at work in a well-lit spacious office, one team member using a floor polisher, others organizing supplies, teamwork visible, photorealistic commercial photography",
+      "contactHero": "Clean modern reception area of a commercial building with white walls and large windows, inviting and professional atmosphere, photorealistic commercial photography"
+    }
+  },
+  "logoUrl": null,
+  "images": {}
+}
